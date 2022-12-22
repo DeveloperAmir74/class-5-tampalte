@@ -1,0 +1,107 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  
+  .SubTitale{
+     color: #810281;
+  }
+  
+  
+  .day1{
+     background-color: hwb(63 10% 0%);
+     text-align: center;
+     
+  }
+  .day2{
+      background-color:#d5a21f;
+      text-align: center;
+  }
+  .day3{
+      background-color:#ff4500;
+      text-align: center;
+  }
+  .day4{
+      background-color: #00bfff;
+      text-align: center;
+  }
+  .day5{
+      background-color:#90ee90;
+      text-align: center;
+  }
+  .day6{
+      background-color:#ee82ee;
+  }
+  .day7{
+      background-color:#e0ffff;
+      text-align: center;
+  }
+  .name{
+      background-color: #d39696;
+      text-align: center;
+  }
+  
+  
+  
+  .color1{
+      background-color:#da70d6;
+      text-align: center;
+  }
+  .color2{
+      background-color:  #a369c1;
+      text-align: center;
+  }
+  .color3{
+      background-color:#0c0cf9;
+      text-align: center;
+  }
+  .color4{
+      background-color:#0b800b;
+      text-align: center;
+  }
+  .color5{
+      background-color:hwb(63 10% 0%);
+      text-align: center;
+  }
+  .color6{
+      background-color:hsl(39, 100%, 54%);
+      text-align: center;
+  }
+  .day7{
+      background-color:#d3d3d3;
+      text-align: center;
+  }
+  .roll{
+      background-color: rgb(192, 240, 20);
+      text-align: center;
+  }
+  
+  .time1{
+      background-color: #f01288dd;
+      text-align: center;
+      
+  }
+  
+  .time2{
+      background-color:#09c07a;
+      text-align: center;
+  }
+  .p{
+      color: #342cd0;
+      background-color: #d3d3d3;
+  }
+  h3{
+      color: red;
+  }
+  .img{
+     height: 200px;
+     width: 300px;
+  }
+  
+  .f{
+      text-align: center;
+      background-color:#42ed7bf1;
+      color: white;
+  }
+  
